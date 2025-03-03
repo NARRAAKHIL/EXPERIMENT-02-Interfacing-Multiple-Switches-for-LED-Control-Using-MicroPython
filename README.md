@@ -148,14 +148,14 @@ while True:
 
 ### FIGURE-02: SWITCH 1 ON
 
-![Screenshot 2025-03-03 110801](https://github.com/user-attachments/assets/a866d8be-4084-4a3a-a746-5f7bd5b93a35)
+![Screenshot 2025-03-03 110900](https://github.com/user-attachments/assets/f4204da2-6e3a-473c-9c33-e643fba11555)
 
 ### FIGURE-03: SWITCH 2 ON
 
 ![Screenshot 2025-03-03 110831](https://github.com/user-attachments/assets/a39c072d-c7e8-4281-9d75-fb9999ecd25c)
 
 ### FIGURE-04: BOTH SWITCH ON
-![Screenshot 2025-03-03 110900](https://github.com/user-attachments/assets/f4204da2-6e3a-473c-9c33-e643fba11555)
+![Screenshot 2025-03-03 110801](https://github.com/user-attachments/assets/a866d8be-4084-4a3a-a746-5f7bd5b93a35)
 
 
 ## TIMING DIGAGRAM 
