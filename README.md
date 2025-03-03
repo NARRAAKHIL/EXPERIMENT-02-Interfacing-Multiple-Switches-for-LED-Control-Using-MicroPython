@@ -142,19 +142,19 @@ while True:
  
 
 ## OUTPUT
-### FIGURE-01:
+### FIGURE-01: CIRCUIT CONNECTION
 ![Screenshot 2025-03-03 111947](https://github.com/user-attachments/assets/cc4f5a43-6d69-4415-a3b5-2f75c60f4e4c)
 
 
-### FIGURE-02: 
+### FIGURE-02: SWITCH 1 ON
 
 ![Screenshot 2025-03-03 110801](https://github.com/user-attachments/assets/a866d8be-4084-4a3a-a746-5f7bd5b93a35)
 
-### FIGURE-03: 
+### FIGURE-03: SWITCH 2 ON
 
 ![Screenshot 2025-03-03 110831](https://github.com/user-attachments/assets/a39c072d-c7e8-4281-9d75-fb9999ecd25c)
 
-### FIGURE-04: 
+### FIGURE-04: BOTH SWITCH ON
 ![Screenshot 2025-03-03 110900](https://github.com/user-attachments/assets/f4204da2-6e3a-473c-9c33-e643fba11555)
 
 
